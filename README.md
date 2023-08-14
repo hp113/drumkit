@@ -1,4 +1,3 @@
-# drumkit
 # DrumKit Website
 # Description
 The DrumKit website is an interactive web application that allows users to experience playing drums virtually. Users can trigger drum sounds by pressing the corresponding keys on their keyboard. This project provides an engaging and entertaining way for users to experiment with different drum sounds and create rhythmic patterns.
